@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+.mg{
+    margin-left: 3%;
+}
+.mg>li{
+    padding: 0px 10px;
+}
